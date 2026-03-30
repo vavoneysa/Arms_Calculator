@@ -1,0 +1,20 @@
+[13132:23364:0330/151603.412:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13132:21744:0330/151603.455:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[13132:23364:0330/151603.465:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13836:14232:0330/151608.804:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FC80AEAF597F7E5AA4A05E32C0838393 will be ignored
+[13132:23364:0330/152241.376:ERROR:device_event_log_impl.cc(196)] [15:22:41.331] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7692:22852:0330/152521.115:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13132:21744:0330/152521.116:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13132:23364:0330/152525.694:ERROR:device_event_log_impl.cc(196)] [15:25:25.422] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13132:21744:0330/152526.120:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7692:276:0330/152526.126:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13132:23168:0330/152527.420:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7692:276:0330/152527.425:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7692:22852:0330/152527.448:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13132:21744:0330/152527.448:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13132:23364:0330/152555.298:ERROR:device_event_log_impl.cc(196)] [15:25:55.299] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13132:23364:0330/152634.690:ERROR:device_event_log_impl.cc(196)] [15:26:34.463] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13132:23364:0330/152644.700:ERROR:device_event_log_impl.cc(196)] [15:26:44.366] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18860:10524:0330/153607.318:ERROR:angle_platform_impl.cc(44)] Renderer11.cpp:2280 (virtual rx::Renderer11::testDeviceLost): The D3D11 device was removed, HRESULT: 0x887A0005
+[18860:10524:0330/153607.319:ERROR:shared_context_state.cc(1244)] SharedContextState context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[18860:10524:0330/153607.321:ERROR:gpu_service_impl.cc(1164)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
